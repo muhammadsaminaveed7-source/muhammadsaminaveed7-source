@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Sami Naveed 👋
 
-<!--
-**muhammadsaminaveed7-source/muhammadsaminaveed7-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+I'm an aspiring Software Engineer from Pakistan who enjoys building modern desktop and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Currently building **NovaForge**
+- 🌱 Learning React, Electron, TypeScript & Python
+- 🎯 Goal: Become a professional Software Engineer
+- 📍 Lahore, Pakistan
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- Electron
+- TypeScript
+- JavaScript
+- Python
+- HTML5
+- CSS3
+- Git
+- GitHub
+
+---
+
+> "Code. Learn. Build. Repeat."
+
