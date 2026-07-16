@@ -21,7 +21,12 @@ I'm an aspiring Software Engineer from Pakistan who enjoys building modern deskt
   <img src="https://skillicons.dev/icons?i=react,electron,ts,js,python,html,css,git,github,vscode" />
 </p>
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadsaminaveed7-source&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaminaveed7-source&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
