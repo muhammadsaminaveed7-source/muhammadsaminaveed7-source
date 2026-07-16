@@ -21,13 +21,16 @@ I'm an aspiring Software Engineer from Pakistan who enjoys building modern deskt
   <img src="https://skillicons.dev/icons?i=react,electron,ts,js,python,html,css,git,github,vscode" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadsaminaveed7-source&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaminaveed7-source&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsaminaveed7-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaminaveed7-source&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsaminaveed7-source&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 > "Code. Learn. Build. Repeat."
