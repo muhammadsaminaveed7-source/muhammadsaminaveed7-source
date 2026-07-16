@@ -17,15 +17,11 @@ I'm an aspiring Software Engineer from Pakistan who enjoys building modern deskt
 
 ## 🛠️ Tech Stack
 
-- React
-- Electron
-- TypeScript
-- JavaScript
-- Python
-- HTML5
-- CSS3
-- Git
-- GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,electron,ts,js,python,html,css,git,github,vscode" />
+</p>
+
+
 
 ---
 
