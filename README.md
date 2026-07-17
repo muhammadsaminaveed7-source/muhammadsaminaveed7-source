@@ -1,126 +1,105 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,30:240046,60:7209b7,100:c77dff&height=300&section=header&text=Muhammad%20Sami%20Naveed&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,40:240046,70:7b2cbf,100:c77dff&height=260&section=header&text=Muhammad%20Sami%20Naveed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=🚀+Software+Developer;🤖+AI+%26+Future+Tech+Explorer;⚡+Building+Innovative+Digital+Solutions;🌌+Creating+The+Future+With+Code"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=muhammadsaminaveed7-source&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/muhammadsaminaveed7-source?label=Followers&style=for-the-badge&color=7c3aed"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=25&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=800&lines=Software+Developer+%F0%9F%92%BB;AI+%26+Future+Technology+Explorer+%F0%9F%A4%96;Building+Digital+Experiences+%E2%9C%A8;Turning+Ideas+Into+Reality+%F0%9F%9A%80"/>
 
 </div>
 
 
 <br>
 
-
-## 🧬 About Me
-
-<img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 
-```python
-class Developer:
+## 👨‍💻 About Me
 
-    def __init__(self):
-        self.name = "Muhammad Sami Naveed"
-        self.role = "Software Developer"
-        self.location = "Pakistan 🇵🇰"
+```javascript
+const sami = {
+    name: "Muhammad Sami Naveed",
+    role: "Software Developer",
+    passion: [
+        "Artificial Intelligence",
+        "Modern Applications",
+        "Creative Technology"
+    ],
 
-    def skills(self):
-        return [
-            "Artificial Intelligence",
-            "Full Stack Development",
-            "Desktop Applications",
-            "Creative Problem Solving"
-        ]
+    currentlyLearning: [
+        "Advanced Programming",
+        "Full Stack Development",
+        "AI Systems"
+    ],
 
-    def mission(self):
-        return "Build technology that impacts millions 🚀"
-
-
-developer = Developer()
+    goal:
+    "Build technology that makes an impact 🌎"
+};
 ```
 
-
-<br clear="right">
+<br clear="right"/>
 
 
 ---
 
-# 🌌 Developer Universe
+## ⚡ Tech Stack
 
 <div align="center">
 
-| 🚀 Current Mission | ⚡ Future Vision |
-|---|---|
-| Building AI Projects | Next Generation Software |
-| Learning Advanced Development | Creating Global Products |
-| Exploring New Technologies | Becoming Industry Ready |
+<img src="https://skillicons.dev/icons?i=python,react,typescript,javascript,nodejs,electron,html,css,tailwind,mongodb,mysql,git,github,vscode&theme=dark"/>
 
 </div>
 
 
 ---
 
-# 🛠️ Technology Arsenal
+## 🚀 Featured Work
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,typescript,javascript,nodejs,electron,html,css,tailwind,mongodb,mysql,git,github,vscode,linux&perline=8&theme=dark"/>
+<table>
+<tr>
+<td width="50%">
+
+### 🌌 NovaForge
+
+A futuristic software project focused on creating modern applications with powerful technologies.
+
+**Stack**
+
+⚛️ React  
+⚡ Electron  
+🐍 Python  
+🤖 AI Integration  
+
+</td>
+
+<td width="50%">
+
+### 🧠 AI Projects
+
+Exploring intelligent systems, automation and next-generation software experiences.
+
+**Focus**
+
+• Machine Learning  
+• Smart Applications  
+• Developer Tools  
+
+</td>
+</tr>
+</table>
 
 </div>
 
 
 ---
 
-# 🧠 AI & Development Journey
+## 📊 GitHub Insights
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-8b5cf6?style=for-the-badge&logo=openai&logoColor=white"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadsaminaveed7-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050014"/>
 
-<img src="https://img.shields.io/badge/Software_Engineering-6d28d9?style=for-the-badge&logo=codefactor&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Future_Tech-c026d3?style=for-the-badge&logo=rocket&logoColor=white"/>
-
-</div>
-
-
----
-
-# 🚀 Featured Project
-
-<div align="center">
-
-## ⚡ NovaForge
-
-<img src="https://img.shields.io/badge/AI%20Powered%20Software-000000?style=for-the-badge&logo=electron&logoColor=purple"/>
-
-Building futuristic applications with:
-
-```
-React ⚛️
-Electron ⚡
-Python 🐍
-Artificial Intelligence 🤖
-Modern UI/UX 🎨
-```
-
-</div>
-
-
----
-
-# 📊 GitHub Performance
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadsaminaveed7-source&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D001A"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaminaveed7-source&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D001A"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaminaveed7-source&layout=compact&theme=tokyonight&hide_border=true&bg_color=050014"/>
 
 </div>
 
@@ -130,60 +109,60 @@ Modern UI/UX 🎨
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsaminaveed7-source&theme=midnight-purple&hide_border=true&background=0D001A"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsaminaveed7-source&theme=tokyonight&hide_border=true&background=050014"/>
 
 </div>
 
 
 ---
 
-# 🌌 Contribution Galaxy
+## 🌐 Contribution Matrix
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaminaveed7-source&bg_color=090014&color=c084fc&line=9333ea&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaminaveed7-source&bg_color=050014&color=c084fc&line=9333ea&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadsaminaveed7-source&theme=dracula&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadsaminaveed7-source&theme=discord&no-frame=true&margin-w=10"/>
 
 </div>
 
 
 ---
 
-# ⚡ Developer Mindset
+## 🧩 Developer Philosophy
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=A855F7&center=true&width=700&lines=Think+Different+💡;Build+Something+Amazing+🚀;Code+The+Future+🌌"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=A855F7&center=true&width=700&lines=Clean+Code+%3D+Better+Future;Innovation+Starts+With+Curiosity;Build.+Learn.+Improve.+Repeat."/>
 
 </div>
 
 
 ---
 
-# 📡 Connect With Me
+## 📡 Let's Connect
 
 <div align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+<a href="https://github.com/muhammadsaminaveed7-source">
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin"/>
-</a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-9333ea?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
 </div>
@@ -191,11 +170,10 @@ Modern UI/UX 🎨
 
 <br>
 
-
 <div align="center">
 
-### "Code is not just written, it is engineered for the future." ⚡
+### ⚡ "Engineering tomorrow with today's code."
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,50:4c1d95,100:090014&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,50:7b2cbf,100:c77dff&height=130&section=footer"/>
 
 </div>
