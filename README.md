@@ -1,74 +1,40 @@
 <div align="center">
 
-<!-- Futuristic Header with Fade-in Effect -->
-# █ MUHAMMAD SAMI NAVEED
-### *Architecting the Future of Intelligent Systems*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Muhammad%20Sami%20Naveed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<br>
+</div>
 
-<!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9F&vCenter=true&lines=AI+Architect.;Full-Stack+Engineer.;Product+Innovator.;Building+Digital+Realities." />
-
-<br>
-<br>
-
----
-
-## ⚡ SYSTEM OVERVIEW
-*Currently bridging the gap between Neural Networks and Human-Centric UI.*
-
-<br>
-
-<!-- Animated Tech Stack Badges -->
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nextjs,nodejs,docker,linux,postgres" />
-
-<br>
-<br>
-
----
-
-## 🚀 FEATURED VENTURES
 
 <div align="center">
-  
-<!-- Animated Project Cards (Hover effects simulation via Markdown) -->
-### ◈ NovaForge
-*AI-Powered Desktop Productivity Ecosystem.*  
-`Electron` | `React` | `Node.js` | `AI Agents`
+
+# ⚡ AI • SOFTWARE ENGINEER • FUTURE BUILDER
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Next+Generation+Software;AI+%7C+React+%7C+Python+Developer;Creating+The+Future+With+Code;Welcome+To+My+Digital+Universe"/>
+
+</div>
+
 
 <br>
 
-### ◈ AI Study Engine
-*Adaptive Intelligent Learning System.*  
-`Python` | `Flask` | `NLP` | `Data Processing`
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-</div>
 
----
+## 🧬 About Me
 
-## 📊 REAL-TIME ANALYTICS
+```yaml
+name: Muhammad Sami Naveed
+role: Software Developer
+focus:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Desktop Applications
+  - Innovative Products
 
-<div align="center">
-  <!-- Animated Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Development%20Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
+currently_building:
+  - NovaForge
+  - AI Powered Applications
 
-<br>
-
-<!-- Animated Activity Graph -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
-
----
-
-## ◈ PHILOSOPHY
-> *"Code is not merely instructions; it is the manifestation of thought into a digital future."*
-
----
-
-<!-- Animated Footer -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=FFFFFF&lines=SYSTEM+STATUS%3A+OPERATIONAL;BUILT+WITH+PASSION+AND+PRECISION" />
-</p>
-
-</div>
+mindset:
+  - Learn
+  - Build
+  - Innovate
