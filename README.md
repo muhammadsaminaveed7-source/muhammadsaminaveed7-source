@@ -18,12 +18,12 @@
 ## 👋 About Me
 
 ```yaml
-name:        Muhammad Sami
-role:        Aspiring Software Engineer
-focus:       Full-Stack Development • Systems • Product Building
-currently:   Building "NovaForge" — a custom software editor
-philosophy:  "Learn in public, build in the open."
-fun_fact:    I'd rather debug for 3 hours than read docs for 5 minutes 😄
+Name:        Muhammad Sami
+Role:        Aspiring Software Engineer
+Focus:       Full-Stack Development • Systems • Product Building
+Currently:   Building "NovaForge" — a custom software editor
+Philosophy:  "Learn in public, build in the open."
+Fun_Fact:    I'd rather debug for 3 hours than read docs for 5 minutes 😄
 ```
 
 - 🚀 Currently working on **NovaForge**, a software editor built from the ground up
